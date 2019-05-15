@@ -1,2 +1,1 @@
-# hello-world
-for test
+How to use git and github
